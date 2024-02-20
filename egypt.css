@@ -1,0 +1,26 @@
+body {
+    background-image: url('images.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #801a1a; /* Change the background color as desired */
+  }
+  
+  .navbar a {
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: beige; /* Change the background color on hover as desired */
+  }
+  
